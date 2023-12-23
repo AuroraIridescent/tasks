@@ -1,0 +1,17 @@
+2023-12-22 23:06:38.133   374-440   android.ha...mpl.ranchu android.hardware.audio.service       E  device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:388 failure: Result::NOT_SUPPORTED
+2023-12-22 23:06:49.731   374-440   android.ha...mpl.ranchu android.hardware.audio.service       E  device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:388 failure: Result::NOT_SUPPORTED
+2023-12-22 23:06:49.732   374-6480  android.ha...mpl.ranchu android.hardware.audio.service       E  pcmStart:158 pcm_start failed with cannot start channel: Broken pipe
+2023-12-22 23:06:49.732   374-6480  android.ha...mpl.ranchu android.hardware.audio.service       E  device/generic/goldfish/audio/talsa.cpp:pcmStart:159 failure: false
+2023-12-22 23:06:49.732   374-6480  android.ha...mpl.ranchu android.hardware.audio.service       E  device/generic/goldfish/audio/device_port_sink.cpp:start:79 failure: Result::INVALID_STATE
+2023-12-22 23:06:49.733   374-6480  android.ha...mpl.ranchu android.hardware.audio.service       E  pcmStart:158 pcm_start failed with cannot start channel: Broken pipe
+2023-12-22 23:06:49.733   374-6480  android.ha...mpl.ranchu android.hardware.audio.service       E  device/generic/goldfish/audio/talsa.cpp:pcmStart:159 failure: false
+2023-12-22 23:06:49.733   374-6480  android.ha...mpl.ranchu android.hardware.audio.service       E  device/generic/goldfish/audio/device_port_sink.cpp:start:79 failure: Result::INVALID_STATE
+2023-12-22 23:06:49.846   374-440   android.ha...mpl.ranchu android.hardware.audio.service       E  device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:388 failure: Result::NOT_SUPPORTED
+2023-12-22 23:06:52.060   374-440   android.ha...mpl.ranchu android.hardware.audio.service       E  device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:388 failure: Result::NOT_SUPPORTED
+2023-12-22 23:06:52.236   374-440   android.ha...mpl.ranchu android.hardware.audio.service       E  device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:388 failure: Result::NOT_SUPPORTED
+2023-12-22 23:06:53.275   374-6480  android.ha...mpl.ranchu android.hardware.audio.service       E  pcmStart:158 pcm_start failed with cannot start channel: File descriptor in bad state
+2023-12-22 23:06:53.275   374-6480  android.ha...mpl.ranchu android.hardware.audio.service       E  device/generic/goldfish/audio/talsa.cpp:pcmStart:159 failure: false
+2023-12-22 23:06:53.275   374-6480  android.ha...mpl.ranchu android.hardware.audio.service       E  device/generic/goldfish/audio/device_port_sink.cpp:start:79 failure: Result::INVALID_STATE
+2023-12-22 23:06:54.182   374-6480  android.ha...mpl.ranchu android.hardware.audio.service       E  pcmStart:158 pcm_start failed with cannot start channel: File descriptor in bad state
+2023-12-22 23:06:54.182   374-6480  android.ha...mpl.ranchu android.hardware.audio.service       E  device/generic/goldfish/audio/talsa.cpp:pcmStart:159 failure: false
+2023-12-22 23:06:54.182   374-6480  android.ha...mpl.ranchu android.hardware.audio.service       E  device/generic/goldfish/audio/device_port_sink.cpp:start:79 failure: Result::INVALID_STATE
